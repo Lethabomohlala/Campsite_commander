@@ -31,7 +31,7 @@ A unified dashboard for cataloging your camping inventory is provided by the app
 </p>
 
 <p align="center">
-  <img src="images/detail_error.PNG" alt="Campsite Commander Screens" width="900"/>
+  <img src="images/main_error.PNG" alt="Campsite Commander Screens" width="900"/>
 </p>
 
 
