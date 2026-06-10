@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/readme_banner.PNG" alt="Campsite Commander Screens" width="900"/>
+  <img src="images/readme_banner.png" alt="Campsite Commander Screens" width="900"/>
 </p>
 
 # Campsite Commander
