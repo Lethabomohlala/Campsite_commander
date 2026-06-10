@@ -5,9 +5,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
-import android.widget.Toast
-import kotlin.compareTo
-import kotlin.text.category
 
 class ViewListActivity : AppCompatActivity() {
 
