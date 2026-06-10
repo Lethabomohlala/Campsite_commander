@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Campsite Commander</string>
+    <string name="subtitle_text">MASTER YOUR GEAR AND COMMAND THE WILD. ALWAYS PACKED, ALWAYS READY.</string>
+    <string name="items_in_list">TOTAL ITEMS PACKED: %d</string>
+    <string name="btn_add_gear">ADD GEAR</string>
+    <string name="btn_view_gear">VIEW GEAR LIST</string>
+    <string name="btn_clear_list">CLEAR LIST</string>
+    <string name="btn_exit_app">EXIT APP</string>
+    <string-array name="categories_array">
+        <item>Category</item>
+        <item>Shelter</item>
+        <item>Food</item>
+        <item>Safety</item>
+    </string-array>
+    <string name="add_gear_items_title">ADD GEAR ITEMS</string>
+    <string name="hint_item_name">ITEM NAME</string>
+    <string name="hint_quantity">QUANTITY</string>
+    <string name="hint_comment">COMMENT</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="btn_save">SAVE</string>
+    <string name="desc_detailed_gear_list">DETAILED GEAR LIST</string>
+    <string name="detailed_gear_list_title">DETAILED\nGEAR LIST</string>
+    <string name="detail_view_subtitle">View, organize, and filter your camping gear items to ensure you\'re fully prepared for every trip.</string>
+    <string name="list_options_title">LIST OPTIONS</string>
+    <string name="btn_display_full_list">DISPLAY FULL LIST OF GEAR</string>
+    <string name="btn_filter_2plus">ITEMS WITH 2+ QUANTITIES</string>
+    <string name="btn_back_to_base">BACK TO BASE</string>
+    <string name="results_title">RESULTS</string>
+    <string name="results_placeholder_text">SELECT AN OPTION ABOVE TO\nSEE RESULTS HERE.</string>
+    <string name="desc_results">RESULTS</string>
+    <string name="msg_no_items_found">NO ITEMS FOUND.</string>
+    <string name="msg_item_saved">Item Saved Successfully!</string>
+    <string name="err_enter_name">Please enter an item name</string>
+    <string name="err_select_category">Please select a category</string>
+    <string name="err_enter_quantity">Please enter a quantity</string>
+    <string name="err_invalid_quantity">Quantity must be greater than 0</string>
+    <string name="msg_list_cleared">List Cleared</string>
+</resources>
