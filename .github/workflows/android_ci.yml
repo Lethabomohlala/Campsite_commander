@@ -1,8 +1,11 @@
 name: Android CI Build Test
 
 on:
+  workflow_dispatch:
+
   push:
     branches: [ "main" ]
+
   pull_request:
     branches: [ "main" ]
 
