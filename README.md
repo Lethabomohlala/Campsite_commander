@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/readme_banner.PNG" alt="Campsite Commander Screens" width="900"/>
+</p>
+
 # Campsite Commander
 
 **Author**: Lethabo Mohlala (ST10093005)
