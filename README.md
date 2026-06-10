@@ -21,11 +21,19 @@ A unified dashboard for cataloging your camping inventory is provided by the app
 *   **Camping Theme**: A custom-designed UI with an outdoor aesthetic, using a dedicated green and brown color palette.
 
 ## Screenshots
-*(Images to be added)*
-*   Splash Screen
-*   Main Dashboard
-*   Add Gear Form (Pop-up)
-*   Detailed Gear List
+<h2 align="center">App Screenshots</h2>
+<p align="center">
+  <img src="images/splash_main.PNG" alt="Campsite Commander Screens" width="900"/>
+</p>
+
+<p align="center">
+  <img src="images/main_detail.PNG" alt="Campsite Commander Screens" width="900"/>
+</p>
+
+<p align="center">
+  <img src="images/detail_error.PNG" alt="Campsite Commander Screens" width="900"/>
+</p>
+
 
 ## Design Considerations
 *   **User Experience**: The "Add Gear" form is implemented as a dialog-styled activity to provide a non-intrusive pop-up experience.
